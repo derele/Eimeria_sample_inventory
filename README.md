@@ -7,6 +7,7 @@ Coordinates of 3 numbers (x.x.x) representing 1) freezer, 2) tower within that f
 Tower order is from left to right in a freezer. Therefore when counting a row, skip to beginning of next row at the end,
 continuing the numeric count. A "Z" pattern if you will.
 
+<<<<<<< HEAD
 
 1 = Blue -80,
 2 = White -80,
@@ -24,3 +25,9 @@ Room 108 -20 freezers:
 For proper organisation projection: 
 Rows = samples,
 minimum necessary columns = Institute, Freezer, box (sample range or fraction eg. 1/3), project (eg. E7, P3, HZ16, etc.), tissue (or material eg. FEC, CEWE, CEWE cDNA, etc.), sample consumed (probably logical T/F, if sample has been used up). 
+=======
+1 = Blue -80, 
+2 = White -80
+
+example: 1.6.8 = Blue -80 freezer, 6th tower, 8th row
+>>>>>>> 13212fc6205cb80d1fc603b454c0bf21348b1d16
